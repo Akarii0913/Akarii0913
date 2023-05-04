@@ -5,6 +5,6 @@ I am a student who specialises in computer science, especially in NLP.
 
 Nice to meet you!!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akarii0913&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akarii0913&layout=compact)
 
 
